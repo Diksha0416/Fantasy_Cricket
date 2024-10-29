@@ -58,8 +58,8 @@ The Fantasy Cricket Game is an online platform where users can create a virtual 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fantasy-cricket-game.git
-   cd fantasy-cricket-game
+   git clone https://github.com/Diksha0416/Fantasy_Cricket.git
+   cd Fantasy_Cricket
    ```
 2. Install the required packages:
    ```bash
