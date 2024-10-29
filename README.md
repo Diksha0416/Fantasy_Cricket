@@ -80,4 +80,3 @@ python main.py
 ## Acknowledgments
 - [PyQt5 Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt5/) 📚
 - [SQLite Documentation](https://www.sqlite.org/docs.html) 📖
-```
